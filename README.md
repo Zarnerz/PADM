@@ -16,7 +16,7 @@ Head to https://supernatmor.github.io/PADM/ to get started.
 
 ## Authors
 
-* **Nathan Morgan** **Dale Holstein** **Gerald Porter** **Salaina Crawford**
+* **Nathan Morgan** | **Dale Holstein** | **Gerald Porter** | **Salaina Crawford**
 
 ## Acknowledgments
 
